@@ -1,0 +1,59 @@
+Crear un pan con crema de avellanas y un café con leche:
+
+Yo lo estoy viendo desde una cafetería que ofrece este servicio y ahí mismo lo preparan todo
+
+Inicio del algoritmo 
+Paso 1 
+llega a la cafetería un cliente
+observa que mesa esta disponible y se sienta 
+paso 2
+el mesero de tuno observa que llego un nuevo cliente y se acerca la mesa donde el cliente esta sentado,
+el mesero le ofrece la carta del menú de la cafetería
+le pregunta el mesero al cliente que desea ordenar?
+El cliente le pide  un pan con crema de avellanas y un café con leche
+El mesero recibe le pedido y lo lleva a la cocina
+Paso 3
+El cocinero recibe el pedido que es Crear un pan con crema de avellanas y un café con leche
+El cocinero revisa si hay los ingredientes suficientes para preparar los alimentos de la orden 
+
+Para el café 
+Ingredientes:
+Café molido (de tu preferencia)
+Agua
+Azúcar 
+Leche o crema 
+
+Para el pan 
+Ingredientes:
+500 g de harina de trigo
+300 ml de agua tibia
+10 g de sal (aproximadamente 1 cucharadita)
+7 g de levadura seca (o 25 g de levadura fresca)
+1 cucharada de azúcar
+2 cucharadas de aceite de oliva (opcional)
+
+Para la crema de avellanas
+Ingredientes:
+200 gramos de avellanas
+100 gramos de azúcar (puede ser azúcar blanca o morena)
+2-3 cucharadas de cacao en polvo (opcional, si quieres un sabor de chocolate)
+1-2 cucharadas de aceite vegetal (puede ser de girasol o de avellanas)
+1 pizca de sal
+1 cucharadita de extracto de vainilla (opcional)
+50-100 ml de leche (puede ser leche regular, de almendras, o cualquier leche de tu preferencia)
+
+El cocinero empieza a preparar los alimentos del pedido
+El cocinero sirve en plato y pocillo los alimentos y los coloca en un bandeja 
+Paso 4 
+El cocinero avisa al mesero que puede venir a recoger le pedido
+El mesero revisa la orden de pedido y verifica que sea lo que el cliente pidió
+Paso 5
+ el mesero lleva el pedido al cliente a su respectiva mesa
+paso 6 
+el cliente verifica si es lo que el pidió 
+el cliente confirma que si es 
+el cliente disfruta tomando su pan con crema de avellanas y café con leche 
+paso7
+el cliente paga el valor de su pedido 
+el cliente sale de la cafeteria 
+ fin del algoritmo
